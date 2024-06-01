@@ -1,4 +1,4 @@
-# A simple GUI application exampåle in Rust with slint framework
+# A simple GUI application example in Rust with slint framework
 
 A Rust example application that's using [Slint](https://slint.rs) for the user interface.
 
